@@ -1,0 +1,45 @@
+html {
+  background-color: rgb(21, 162, 172);
+    font-size: 10px;
+    background-size: cover;
+}
+h1{
+font-family: 'Courier New';
+color: #000;
+font-size: 40px;
+text-align: center;
+}
+h2{
+font-family: 'Courier New';
+color: #000;
+font-size: 40px;
+text-align: center;
+}
+
+.buttons {
+  background-color: black; 
+    border: none;
+    color: white;
+    border-radius: 25px;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-flex;
+    font-size: 26px;
+  } 
+  a.buttons:hover { 
+    background-position: right center;
+   }
+.button-wrapper {
+  display: flex;
+  justify-content: center;
+}
+#paragraph{
+  font-size: 40px;
+}
+p{
+  border: 6px solid black;
+  padding: 5px;
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Courier New';
+}
